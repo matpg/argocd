@@ -3,7 +3,7 @@ global:
   tlsSecretName: cloudnativetoolkit-001-0e3e0ef4c9c6d831e8aa6fe01f33bfc4-0000.us-east
 
 # replace <app-chart-name> with the value given in requirements.yaml
-mpg-inventory-managment:
+mpg-inventory-management:
   # provides values from the values.yaml in the <app-chart-name> helm chart
   replicaCount: 1
   
